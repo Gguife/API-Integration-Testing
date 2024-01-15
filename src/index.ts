@@ -5,6 +5,6 @@ app.use(express.json());
 
 app.use('/aluno', alunoRoute);
 
-app.listen(8080, () => {
+app.listen(3000, () => {
   console.log('server running!');
 });
