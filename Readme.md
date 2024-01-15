@@ -2,7 +2,7 @@
 </hr>
 
 
-<img src="./public/codeTest.png" width="50%" alt="print do codigo de teste" />
+<img src="./public/codeTest.png" width="100%" alt="print do codigo de teste" />
 
 ## Objetivo 🎯
   - Aplicando meus conhecimentos em TypeScript e Jest, para solucionar um dos maiores problemas que grandes empresas possui em relação a uma API em JS.
