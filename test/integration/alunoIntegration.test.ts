@@ -29,5 +29,4 @@ describe('Testes de integração para API de alunos', () => {
     const getResponse = await axios.get('http://localhost:3000/alunos');
     expect(getResponse.data).toEqual(expect.arrayContaining([expect.objectContaining(newStudent)]));
   });
-
 });
